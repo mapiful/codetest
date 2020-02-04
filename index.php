@@ -115,10 +115,14 @@ function run_awesome_code_test(){
         ];
     }
 
-    echo '<pre>';
-    print_r($output);
-    echo '</pre>';
-    die();
+    // Output early in header
+    add_action('wp_head', function() use($output) { 
+        echo '<pre style="display:block;width: 100%;background-color:#fff;color:#000;margin:0px;padding:50px;border: 5px solid #000;">';
+        print_r($output);
+        echo '</pre>';
+    }, 10);
 }
+
+
 
 run_awesome_code_test();
