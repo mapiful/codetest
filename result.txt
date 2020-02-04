@@ -1,0 +1,39 @@
+Array
+(
+    [0] => Array
+        (
+            [name] => iPhone
+            [product_type] => product_type_b
+            [brand] => Pear
+            [price] => 1000
+            [slug] => iphone-apple-mobile
+        )
+
+    [1] => Array
+        (
+            [name] => ASUS Router AC68U
+            [product_type] => product_type_a
+            [brand] => asus
+            [price] => 40
+            [slug] => asus-router-ac68u-asus-router
+        )
+
+    [2] => Array
+        (
+            [name] => PS4
+            [product_type] => product_type_c
+            [brand] => Sony
+            [price] => 290
+            [slug] => xbox-microsoft-console
+        )
+
+    [3] => Array
+        (
+            [name] => QC35 headphone
+            [product_type] => product_type_a
+            [brand] => bose
+            [price] => 50
+            [slug] => qc35-headphone-bose-accessories
+        )
+
+)
