@@ -10,7 +10,7 @@ Author URI: http://www.mapiful.com/
 
 // BACKGROUND:
 // We have different product types that each require some custom logic to produce the output we want.
-// We want to be able to standardize our way of operating on dealing with the products.
+// We want to be able to standardize our way of working with the products.
 // We also want to be have extendability to introduce new product types in the future.
 //  ---------------------------------------------
 require_once plugin_dir_path( __FILE__ ) . 'product-type.php';
