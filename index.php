@@ -46,12 +46,10 @@ class Mapiful_Product_Factory {
 
     public function get_product_types(){
         // Redacted
-        return $this->types;
     }
 
     public function load_type(){
         // Redacted
-        $this->type = '';
     }
 
     public function call(){
