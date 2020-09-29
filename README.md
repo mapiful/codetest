@@ -6,3 +6,6 @@ Clone this repo to a folder in your plugins folder in a WP installation and acti
 
 ## Submit solution to
 edvin@mapiful.com, or via HR agent
+
+
+![Image of Yaktocat](https://count.underjord.io/)
